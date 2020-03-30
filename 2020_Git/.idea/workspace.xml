@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fe5dd7e-9032-4f50-a4f2-1458c1e8dbc7" name="Default Changelist" comment="IDEA提交一个git项目" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="origin2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yangzj-edu/GitModel.git" />
+        <option value="https://github.com/yangzj-edu/helloworld.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\SJT1909\WorkSpace\2020_Git\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpW4wOZ2PPiAwxIVC6IbfOBxxN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fe5dd7e-9032-4f50-a4f2-1458c1e8dbc7" name="Default Changelist" comment="" />
+      <created>1585536327368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585536327368</updated>
+      <workItem from="1585536329258" duration="145000" />
+      <workItem from="1585536489058" duration="91000" />
+      <workItem from="1585536590263" duration="35000" />
+      <workItem from="1585536632133" duration="40000" />
+      <workItem from="1585536683996" duration="10000" />
+      <workItem from="1585539048649" duration="1248000" />
+      <workItem from="1585540702715" duration="578000" />
+    </task>
+    <task id="LOCAL-00001" summary="IDEA提交一个git项目">
+      <created>1585539481353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585539481353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IDEA提交一个git项目">
+      <created>1585541172593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585541172593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA提交一个git项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA提交一个git项目" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="46" key="CommitChangelistDialog2" timestamp="1585541276783">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="167" y="46" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1585541276783" />
+    <state x="121" y="88" key="DiffContextDialog" timestamp="1585540806707">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="121" y="88" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1585540806707" />
+    <state x="475" y="204" key="FileChooserDialogImpl" timestamp="1585541248683">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="475" y="204" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1585541248683" />
+    <state x="179" y="70" key="SettingsEditor" timestamp="1585539203557">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="179" y="70" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1585539203557" />
+    <state x="270" y="220" key="Vcs.Push.Dialog.v2" timestamp="1585541186081">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="270" y="220" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1585541186081" />
+  </component>
+</project>
